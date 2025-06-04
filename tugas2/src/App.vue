@@ -11,7 +11,7 @@
 
 <script setup>
 import { ref } from 'vue'
-import DeclarativeRendering from './components/Declarativerendering.vue'
+import DeclarativeRendering from './components/DeclarativeRSendering.vue'
 import AttributeBinding from './components/AttributeBinding.vue'
 import FormBinding from './components/FormBinding.vue'
 import listRendering from './components/ListRendering.vue'
